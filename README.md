@@ -2,6 +2,12 @@
 
 A modern iOS networking application that helps users manage business contacts through QR codes, with built-in contact management and notification features.
 
+<div align="left"> 
+ <p float="left">
+   <img src="prospectsGif.gif" width="250" />
+ </p>
+</div>
+
 ## Features
 
 ### Contact Management
